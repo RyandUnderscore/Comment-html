@@ -1,4 +1,4 @@
-var disqus_shortname="bungryand";
+var disqus_shortname="cararyand";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
