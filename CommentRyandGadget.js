@@ -1,4 +1,4 @@
-var disqus_shortname="ryandgadget";
+var disqus_shortname="RyandGadget";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
